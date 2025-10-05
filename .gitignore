@@ -1,0 +1,23 @@
+# Node modules
+node_modules/
+
+# PHP vendor
+/vendor/
+
+# Environment files
+.env
+*.env
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+/storage/logs/
+
+# Database dumps
+*.sql
+*.sqlite
+*.dump
+
+# VS Code
+.vscode/
